@@ -46,8 +46,9 @@ public class HelloWorldServlet extends HttpServlet {
                 "<input id=\"username\" name=\"username\" placeholder=\"Enter name\" />" +
                 "</form>" +
                 "</html>");
-        String name = "";
-        String name1 = request.getParameter("name");
+        System.out.println();
+
+        String name1 = request.getParameter("username");
 
         out.println("<h1>Hello, " +  name1 + "</h1>");
 
