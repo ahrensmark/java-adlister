@@ -17,7 +17,7 @@
 </head>
 <body>
 <header>
-    <h1>LOGIN PAGE</h1>
+    <h1 class="center">LOGIN PAGE</h1>
 </header>
 
 <%@ include file="partials/navbar.jsp"%>

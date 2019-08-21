@@ -9,3 +9,8 @@ label {
 li {
     font-size: 20px;
 }
+
+.center {
+    text-align: center;
+    font-family: "Stencil Std";
+}

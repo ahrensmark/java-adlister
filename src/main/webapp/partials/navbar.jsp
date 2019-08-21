@@ -24,8 +24,8 @@
             <a class="nav-item nav-link active" href="login.jsp">Login <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="index.jsp">Index</a>
             <a class="nav-item nav-link" href="profile.jsp">Profile</a>
-            <a class="nav-item nav-link" href="partials/head.jsp">Head</a>
-            <a class="nav-item nav-link" href="partials/navbar.jsp">Navbar</a>
+<%--            <a class="nav-item nav-link" href="partials/head.jsp">Head</a>--%>
+<%--            <a class="nav-item nav-link" href="partials/navbar.jsp">Navbar</a>--%>
         </div>
     </div>
 </nav>
