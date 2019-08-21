@@ -11,9 +11,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <link rel="stylesheet" href="/css/style.css">
+<%--    <link rel="stylesheet" href="/css/style.css">--%>
     <%@ include file="partials/head.jsp"%>
-    <style><%@include file="css/style.css"%></style>
+<%--    <style><%@include file="css/style.css"%></style>--%>
 </head>
 <body>
 <header>

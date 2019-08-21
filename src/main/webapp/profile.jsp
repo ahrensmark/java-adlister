@@ -10,13 +10,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title><%= "some title" %></title>
-    <link rel="stylesheet" href="/css/style.css">
-    <%@ include file="partials/head.jsp"%>
-    <style><%@include file="css/style.css"%></style>
+    <jsp:include page="partials/head.jsp"></jsp:include>
+<%--    <style><%@include file="css/style.css"%></style>--%>
 
 </head>
 <body>
+
 <header>
     <h1 class="center">PROFILE PAGE</h1>
 </header>
